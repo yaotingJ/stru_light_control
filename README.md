@@ -1,0 +1,2 @@
+# stru_light_control
+自己毕业设计的一些代码，目前只有pyside6的一些控制代码
